@@ -1,5 +1,3 @@
-# 
-
 # 👋 Hello
 
 > 818jsy’s 개발 공부 일지
@@ -22,16 +20,16 @@
 > - 자바 언어 기본 연산 연습
 > - 다중 액티비티 전환을 통한 인트로 화면 구현
 > 
-> [**소스 코드**](https://www.notion.so/0173ff7cc907482aae7b0011753bf3f8?pvs=21)
+> **[소스 코드](https://github.com/818jsy/Calculator)**
 > 
-> [**APK 배포 파일**](https://github.com/818jsy/Calculator)
+> **[APK 배포 파일](https://github.com/818jsy/818jsy.github.io/releases/tag/practice)**
 > 
 
 시연 사진
 
-![KakaoTalk_20240225_210319261.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c13261f-1f70-4b58-801e-a097ba123413/355444e7-4e85-41f5-bcaf-3a7df050d001/KakaoTalk_20240225_210319261.jpg)
+![KakaoTalk_20240225_210319261_01](https://github.com/818jsy/818jsy.github.io/assets/130274090/1420fe36-ec77-4ed9-b402-62b021bfa487)
 
-![KakaoTalk_20240225_210319261_01.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c13261f-1f70-4b58-801e-a097ba123413/45ed822a-0178-4bfd-93b7-80900c1a4890/KakaoTalk_20240225_210319261_01.jpg)
+![KakaoTalk_20240225_210319261](https://github.com/818jsy/818jsy.github.io/assets/130274090/075b2daf-e659-4e64-85de-113b7390be22)
 
 # 📞 Contact
 
