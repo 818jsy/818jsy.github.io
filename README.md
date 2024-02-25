@@ -22,9 +22,9 @@
 > - 자바 언어 기본 연산 연습
 > - 다중 액티비티 전환을 통한 인트로 화면 구현
 > 
-> 소스 코드
+> [**소스 코드**](https://www.notion.so/0173ff7cc907482aae7b0011753bf3f8?pvs=21)
 > 
-> APK 배포 파일
+> [**APK 배포 파일**](https://github.com/818jsy/Calculator)
 > 
 
 시연 사진
