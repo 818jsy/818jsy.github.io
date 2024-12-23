@@ -24,6 +24,8 @@ Github: https://github.com/Team-Metagonia/Metagonia
 
 Github: https://github.com/Team-Realize/Scent
 
+랜딩페이지/데모: https://team-realize.github.io/Scent_Landing_Web/
+
 # ASKU
 
 고려대학교 위키 기반 챗봇 서비스 (FE)
