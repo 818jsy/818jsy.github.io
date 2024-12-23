@@ -24,6 +24,10 @@ Release: https://drive.google.com/drive/folders/11EyyS-2JxY0K1TLjIadAH4rysOwu5t9
 
 # ASKU
 
+고려대학교 위키 기반 챗봇 서비스 (FE)
+
+Github: https://github.com/KU-niverse/ASKu-Front
+
 기존 웹사이트: https://asku.wiki/
 
 메인 페이지 리모델링 (수정 후)
@@ -42,6 +46,8 @@ Release: https://drive.google.com/drive/folders/11EyyS-2JxY0K1TLjIadAH4rysOwu5t9
 
 3D 모델링 AI 기반 꽃다발 커스텀 서비스
 
+Github: https://github.com/Team-Realize/Scent
+
 # Polygonia
 
 Github: https://github.com/rlaqudgus/PolyGonia
@@ -53,5 +59,7 @@ WebGl(Release): https://play.unity.com/ko/games/6f9e65ef-fb57-459c-bb07-443d77c2
 2D 횡스크롤 플랫포머 액션 게임
 
 # Calculator
+
+간단한 정수 계산기
 
 Github: https://github.com/818jsy/Calculator
