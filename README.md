@@ -38,6 +38,10 @@ Release: https://drive.google.com/drive/folders/11EyyS-2JxY0K1TLjIadAH4rysOwu5t9
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c13261f-1f70-4b58-801e-a097ba123413/e27d4905-9590-466e-8828-345f598c9bd7/image.png)
 
+# Scent
+
+3D 모델링 AI 기반 꽃다발 커스텀 서비스
+
 # Polygonia
 
 Github: https://github.com/rlaqudgus/PolyGonia
