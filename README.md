@@ -22,6 +22,18 @@ Release: https://drive.google.com/drive/folders/11EyyS-2JxY0K1TLjIadAH4rysOwu5t9
 
 ![36.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c13261f-1f70-4b58-801e-a097ba123413/7950538a-34f6-4df7-9e48-5fc511bb1f03/36.png)
 
+# Metagonia
+
+선사시대 메타버스 시뮬레이터
+
+Github: https://github.com/Team-Metagonia/Metagonia
+
+# Scent
+
+3D 모델링 AI 기반 꽃다발 커스텀 서비스
+
+Github: https://github.com/Team-Realize/Scent
+
 # ASKU
 
 고려대학교 위키 기반 챗봇 서비스 (FE)
@@ -42,13 +54,9 @@ Github: https://github.com/KU-niverse/ASKu-Front
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c13261f-1f70-4b58-801e-a097ba123413/e27d4905-9590-466e-8828-345f598c9bd7/image.png)
 
-# Scent
-
-3D 모델링 AI 기반 꽃다발 커스텀 서비스
-
-Github: https://github.com/Team-Realize/Scent
-
 # Polygonia
+
+2D 횡스크롤 플랫포머 액션 게임
 
 Github: https://github.com/rlaqudgus/PolyGonia
 
@@ -56,7 +64,6 @@ WebGl(Release): https://play.unity.com/ko/games/6f9e65ef-fb57-459c-bb07-443d77c2
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7c13261f-1f70-4b58-801e-a097ba123413/108ccfa1-9ab9-48a3-8816-3fe1ee3ea907/image.png)
 
-2D 횡스크롤 플랫포머 액션 게임
 
 # Calculator
 
