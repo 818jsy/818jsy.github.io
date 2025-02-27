@@ -6,9 +6,9 @@
 
 Github: https://github.com/DevKor-github/TEAM-C-front
 
-Release: https://drive.google.com/drive/folders/11EyyS-2JxY0K1TLjIadAH4rysOwu5t9x?usp=sharing
+Release: https://kodaero.co.kr/
 
-홍보영상: https://drive.google.com/drive/folders/11EyyS-2JxY0K1TLjIadAH4rysOwu5t9x?usp=sharing
+홍보영상: https://youtu.be/yGw_1KdApaM?feature=shared
 
 # Metagonia
 
