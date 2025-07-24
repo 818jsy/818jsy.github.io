@@ -10,6 +10,12 @@ Release: https://kodaero.co.kr/
 
 홍보영상: https://youtu.be/yGw_1KdApaM?feature=shared
 
+# PaceMate
+
+온디바이스 AI 기반 스크린 타임 모니터
+
+Github: https://github.com/sc-team-6/PaceMate-FE
+
 # Metagonia
 
 선사시대 메타버스 시뮬레이터
@@ -49,3 +55,12 @@ WebGl(Release): https://play.unity.com/ko/games/6f9e65ef-fb57-459c-bb07-443d77c2
 간단한 정수 계산기
 
 Github: https://github.com/818jsy/Calculator
+
+
+# ML 학습 포트폴리오
+
+# LunarLander
+
+OpenAI의 LunarLander 환경에서 다양한 강화학습 방법론(PPO, SAC, Rainbow DQN)를 적용하여 탐사선 착륙 문제를 해결
+
+Github: https://github.com/IIIXR-JSY/LunarLander-v3
